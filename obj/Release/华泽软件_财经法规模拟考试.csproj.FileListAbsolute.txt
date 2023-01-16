@@ -1,0 +1,176 @@
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.功能试验.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+G:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+G:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.功能试验.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+H:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.功能试验.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+C:\Documents and Settings\Administrator.CLASS-3CB9B5546\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.功能试验.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\360data\重要数据\桌面\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.功能试验.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+D:\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件_财经法规模拟考试_5_25\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe.config
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe.config
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.功能测试.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe.config
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.exe
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\ResolveAssemblyReference.cache
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.read.1.tlog
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\GenerateResource.write.1.tlog
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.exe
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\华泽软件_财经法规模拟考试.pdb
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+E:\华泽软件\华泽软件_财经法规模拟考试\华泽软件_财经法规模拟考试\obj\Release\华泽软件_财经法规模拟考试.pdb
+F:\华泽软件\安徽版\财经法规\bin\Release\华泽软件_财经法规模拟考试.exe.config
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.exe
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.pdb
+F:\华泽软件\安徽版\财经法规\bin\Release\华泽软件_财经法规模拟考试.exe
+F:\华泽软件\安徽版\财经法规\bin\Release\华泽软件_财经法规模拟考试.pdb
+F:\华泽软件\安徽版\财经法规\bin\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件\安徽版\财经法规\bin\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件\安徽版\财经法规\obj\Release\ResolveAssemblyReference.cache
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.errorReport.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.Exercise.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.frmMain.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.frmStart.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.Properties.Resources.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.scoreDiagram.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.Exercise.zh.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\华泽软件_财经法规模拟考试.Exercise.zu-ZA.resources
+F:\华泽软件\安徽版\财经法规\obj\Release\GenerateResource.read.1.tlog
+F:\华泽软件\安徽版\财经法规\obj\Release\GenerateResource.write.1.tlog
+F:\华泽软件\安徽版\财经法规\obj\Release\zh\华泽软件_财经法规模拟考试.resources.dll
+F:\华泽软件\安徽版\财经法规\obj\Release\zu-ZA\华泽软件_财经法规模拟考试.resources.dll

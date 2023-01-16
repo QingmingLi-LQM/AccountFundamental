@@ -1,0 +1,27 @@
+F:\华泽软件\全国版\会计基础\bin\Debug\华泽_会计基础模拟考试.exe.config
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.Exercise.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.frmMain.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.frmStart.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.Properties.Resources.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.scoreDiagram.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.功能测试.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.计算分录.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.Exercise.zh.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.Exercise.zu-ZA.resources
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\zh\华泽_会计基础模拟考试.resources.dll
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.exe
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.pdb
+F:\华泽软件\全国版\会计基础\bin\Debug\华泽_会计基础模拟考试.exe
+F:\华泽软件\全国版\会计基础\bin\Debug\华泽_会计基础模拟考试.pdb
+F:\华泽软件\全国版\会计基础\bin\Debug\zh\华泽_会计基础模拟考试.resources.dll
+F:\华泽软件\全国版\会计基础\bin\Debug\zu-ZA\华泽_会计基础模拟考试.resources.dll
+F:\华泽软件\全国版\会计基础\obj\x86\Debug\zu-ZA\华泽_会计基础模拟考试.resources.dll
+C:\Users\Student\Desktop\会计基础\bin\Debug\华泽_会计基础模拟考试.exe.config
+C:\Users\Student\Desktop\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.exe
+C:\Users\Student\Desktop\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.pdb
+C:\Users\lqm\Documents\Tencent Files\394669898\FileRecv\软件测试程序\软件测试程序\会计基础\bin\Debug\华泽_会计基础模拟考试.exe.config
+C:\Users\lqm\Documents\Tencent Files\394669898\FileRecv\软件测试程序\软件测试程序\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.exe
+C:\Users\lqm\Documents\Tencent Files\394669898\FileRecv\软件测试程序\软件测试程序\会计基础\obj\x86\Debug\华泽_会计基础模拟考试.pdb

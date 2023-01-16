@@ -1,0 +1,15 @@
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\bin\Debug\华泽软件_财经法规模拟考试.exe
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\bin\Debug\华泽软件_财经法规模拟考试.pdb
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.frmStart.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.Properties.Resources.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.exe
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.pdb
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.frmMain.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\GenerateResource.write.377.tlog
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\GenerateResource.write.531.tlog
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.功能试验.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.errorReport.resources
+F:\2011-2012第二学期\华泽软件_财经法规模拟考试\obj\x86\Debug\华泽软件_财经法规模拟考试.scoreDiagram.resources
